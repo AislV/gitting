@@ -1,1 +1,3 @@
-print ("Hello")
+x = 1
+y = 2
+print(y)
